@@ -1,0 +1,7 @@
+{
+  "name": "VibeWallpapers AI",
+  "description": "A mobile-first web app for generating unique phone wallpapers based on your desired vibe. Describe a mood or a scene, and get four AI-generated variations. View them fullscreen, download your favorites, or remix them to inspire new creations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
